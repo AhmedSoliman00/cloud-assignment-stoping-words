@@ -52,5 +52,5 @@ like: 1
 
 ## Author
 
-[Ahmed Soliman]
+# Ahmed Soliman 👌
 
